@@ -1,0 +1,18 @@
+{
+    "email": {
+        "kuvashviking@yandex.ru": 0
+    },
+    "login": {
+        "testtest": 0
+    },
+    "base": {
+        "0": {
+            "User": {
+                "email": "KuvashViking@yandex.ru",
+                "login": "TestTest",
+                "password": "0d0ae04fbf34c10d1f65537f29ee0be7",
+                "name": "TestTest"
+            }
+        }
+    }
+}
